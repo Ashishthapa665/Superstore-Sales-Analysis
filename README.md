@@ -5,4 +5,7 @@ Analyze the sales and profit data of a Superstore to provide business insights a
 ## Tools Used:
 - **Excel**: Data Cleaning and Preprocessing
 - **Power BI**: Exploratory Data Analysis and Visualization
+- 
+##Questions(KPIs):
 
+### 1. **Which products contribute most to sales and profits?**
