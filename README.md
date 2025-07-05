@@ -17,8 +17,8 @@ Analyze the sales and profit data of a Superstore to provide business insights a
 7. **How does seasonality affect sales and profit?**
 
 ## Key Insights:
-- **Furniture** was the highest contributor to both **sales** and **profit**. This category should be prioritized for marketing and sales strategies, particularly because of its strong profit margins.
-**Technology** had high **sales**, but its **profit margin** was comparatively low. The Superstore should look into optimizing pricing or reducing associated costs in this category.
+- **Furniture** was the highest contributor to both **sales** and **profit**.
+**Technology** had high **sales**, but its **profit margin** was comparatively low.
 **Office Supplies**, while moderate in sales, showed the highest **profit margins**. More targeted promotions could increase its sales without compromising profitability.
 
 - **Large discounts** led to **higher sales**, but often at the expense of **profit margins**. While discounts can drive volume, they might not always lead to long-term profit gains.
