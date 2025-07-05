@@ -8,7 +8,7 @@ Analyze the sales and profit data of a Superstore to provide business insights a
   
 ## Questions(KPIs):
 
-1.** Which products contribute most to sales and profits?**
+1. **Which products contribute most to sales and profits?**
 2. **How does discounting impact profitability?**
 3. **Which regions are performing well and which need improvement?**
 4. **How do customer segments affect overall profitability?**
@@ -18,5 +18,5 @@ Analyze the sales and profit data of a Superstore to provide business insights a
 8. **How efficient is the inventory turnover?**
 9. **What is the customer lifetime value (CLV)?**
 10. **How does seasonality affect sales and profit?**
-   - 
+    
 
